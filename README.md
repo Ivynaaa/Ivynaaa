@@ -1,6 +1,5 @@
  ### Sistemas de Informação - UFOP 💻✨
-![Ivyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivynaa&show_icons=true&theme=radical)
-<!--
+![Ivyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)<!--
 **Ivynaaa/Ivynaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
